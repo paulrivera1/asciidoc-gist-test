@@ -1,5 +1,5 @@
 
-:stem: latexmath
+:stem: (1)
 
 stem:[sqrt(4) = 16]
 
